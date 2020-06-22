@@ -32,3 +32,32 @@ JavaScript is a programming language that is:
 - **multi-paradigm**: the language does not enforce any particular programming paradigm, unlike Java for example, which forces the use of object-oriented programming, or C that forces imperative programming. You can write JavaScript using an object-oriented paradigm, using prototypes and the new (as of ES6) classes syntax. You can write JavaScript in a functional programming style, with its first-class functions, or even in an imperative style (C-like).
 
 In case you're wondering, *JavaScript has nothing to do with Java*, it's a poor name choice but we have to live with it.
+### Summary of the handbook
+
+1. A little bit of history
+2. Just JavaScript
+3. A brief intro to the syntax of JavaScript
+4. Semicolons
+5. Values
+6. Variables
+7. Types
+8. Expressions
+9. Operators
+10. Precedence rules
+11. Comparison operators
+12. Conditionals
+13. Arrays
+14. Strings
+15. Loops
+16. Functions
+17. Arrow functions
+18. Objects
+19. Object Properties
+20. Object Methods
+21. Classes
+22. Inheritance
+23. Asynchonous Programming and Callbacks
+24. Promises
+25. Async and Await
+26. Variable scope
+27. Conclusion
