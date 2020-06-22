@@ -34,30 +34,30 @@ JavaScript is a programming language that is:
 In case you're wondering, *JavaScript has nothing to do with Java*, it's a poor name choice but we have to live with it.
 ### Summary of the handbook
 
-1. A little bit of history
-2. Just JavaScript
-3. A brief intro to the syntax of JavaScript
-4. Semicolons
+1. [A little bit of history](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/A%20little%20bit%20of%20history.md#a-little-bit-of-history)
+2. [Just JavaScript](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Just%20JavaScript.md#just-javascript)
+3. [A brief intro to the syntax of JavaScript](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/A%20brief%20intro%20to%20the%20syntax%20of%20JavaScript.md#a-brief-intro-to-the-syntax-of-javascript)
+4. [Semicolons](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Semicolons.md#semicolons)
 5. [Values](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Values.md#values)
-6. Variables
-7. Types
-8. Expressions
-9. Operators
-10. Precedence rules
-11. Comparison operators
-12. Conditionals
-13. Arrays
-14. Strings
-15. Loops
-16. Functions
-17. Arrow functions
-18. Objects
-19. Object Properties
-20. Object Methods
-21. Classes
-22. Inheritance
-23. Asynchonous Programming and Callbacks
-24. Promises
-25. Async and Await
-26. Variable scope
-27. Conclusion
+6. [Variables](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Variables.md#variables)
+7. [Types](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Types.md#types)
+8. [Expressions](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Expressions.md#expressions)
+9. [Operators](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Operators.md#operators)
+10. [Precedence rules](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Precedence%20rules.md#precedence-rules)
+11. [Comparison operators](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Comparison%20operators.md#comparison-operators)
+12. [Conditionals](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Conditionals.md#conditionals)
+13. [Arrays](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Arrays.md#arrays)
+14. [Strings](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Strings.md#strings)
+15. [Loops](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Loops.md#loops)
+16. [Functions](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Functions.md#functions)
+17. [Arrow functions](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Arrow%20functions.md#arrow-functions)
+18. [Objects](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Objects.md#objects)
+19. [Object Properties](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Object%20Properties.md#object-properties)
+20. [Object Methods](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Object%20Methods.md#object-methods)
+21. [Classes](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Classes.md#classes)
+22. [Inheritance](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Inheritance.md#inheritance)
+23. [Asynchonous Programming and Callbacks](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Asynchonous%20Programming%20and%20Callbacks.md#asynchonous-programming-and-callbacks)
+24. [Promises](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Promises.md#promises)
+25. [Async and Await](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Async%20and%20Await.md#async-and-await)
+26. [Variable scope](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Variable%20scope.md#variable-scope)
+27. [Conclusion](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Conclusion.md#conclusion)
