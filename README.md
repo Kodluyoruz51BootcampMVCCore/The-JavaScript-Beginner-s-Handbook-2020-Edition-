@@ -38,7 +38,7 @@ In case you're wondering, *JavaScript has nothing to do with Java*, it's a poor 
 2. Just JavaScript
 3. A brief intro to the syntax of JavaScript
 4. Semicolons
-5. Values
+5. [Values](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Values.md#values)
 6. Variables
 7. Types
 8. Expressions
