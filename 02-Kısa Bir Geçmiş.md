@@ -21,7 +21,7 @@ mobile apps, TV apps, and much more. What started as a tiny language inside the 
 
 ## ---------------
 
-## Kýsa Bir Geçmiþ
+## Kýsa Bir Geçmiþ:
 1995'te yaratýlan JavaScript mütevazý baþlangýcýndan bu yana çok uzun bir yol aldý.
 
 Bir web tarayýcýsý tarafýndan doðal olarak desteklenen ilk betik(script) dildi. Bu sayede diðer dillere nazaran rekabetçi bir üstünlük
