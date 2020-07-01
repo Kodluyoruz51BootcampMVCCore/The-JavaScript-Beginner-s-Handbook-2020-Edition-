@@ -21,21 +21,21 @@ mobile apps, TV apps, and much more. What started as a tiny language inside the 
 
 ## ---------------
 
-## Kısa Bir Geçmiş:
-1995'te yaratılan JavaScript mütevazı başlangıcından bu yana çok uzun bir yol aldı.
+## KÄ±sa Bir GeÃ§miÅŸ:
+1995'te yaratÄ±lan JavaScript mÃ¼tevazÄ± baÅŸlangÄ±cÄ±ndan bu yana Ã§ok uzun bir yol aldÄ±.
 
-Bir web tarayıcısı tarafından doğal olarak desteklenen ilk betik(script) dildi. Bu sayede diğer dillere nazaran rekabetçi bir üstünlük
-sağladı ve bugün halen Web Uygulamaları geliştirirken kullanılan yegane betik dilidir.
+Bir web tarayÄ±cÄ±sÄ± tarafÄ±ndan doÄŸal olarak desteklenen ilk betik(script) dildi. Bu sayede diÄŸer dillere nazaran rekabetÃ§i bir Ã¼stÃ¼nlÃ¼k
+saÄŸladÄ± ve bugÃ¼n halen Web UygulamalarÄ± geliÅŸtirirken kullanÄ±lan yegane betik dilidir.
 
-Diğer diller halen varlıklarını devam ettiriyor fakat hepsi JavaScript'e derlenmek(compile) mecburiyetinde ya da son zamanlardaki WebAssembly'e.
-Bu başka bir hikayenin konusu.
+DiÄŸer diller halen varlÄ±klarÄ±nÄ± devam ettiriyor fakat hepsi JavaScript'e derlenmek(compile) mecburiyetinde ya da son zamanlardaki WebAssembly'e.
+Bu baÅŸka bir hikayenin konusu.
 
-Başlangıçta JavaScript bugünkü kadar güçlü değildi ve genellikle yanarlı-dönerli animasyonlar ve o zaman bir mucize olarak
-bilinen Dinamik HTML için kullanılıyordu.
+BaÅŸlangÄ±Ã§ta JavaScript bugÃ¼nkÃ¼ kadar gÃ¼Ã§lÃ¼ deÄŸildi ve genellikle yanarlÄ±-dÃ¶nerli animasyonlar ve o zaman bir mucize olarak
+bilinen Dinamik HTML iÃ§in kullanÄ±lÄ±yordu.
 
-Web platformunun talep ettiği ve etmeye devam ettiği artan ihtiyaçlarla birlikte JavaScript'in de dünyanın en çok kullanılan
-ekosisteminin ihtiyaçlarını karşılama sorumluluğu arttı.
+Web platformunun talep ettiÄŸi ve etmeye devam ettiÄŸi artan ihtiyaÃ§larla birlikte JavaScript'in de dÃ¼nyanÄ±n en Ã§ok kullanÄ±lan
+ekosisteminin ihtiyaÃ§larÄ±nÄ± karÅŸÄ±lama sorumluluÄŸu arttÄ±.
 
-JavaScript şu anda bir taraftan da databaseleri(veritabanlarını) ve daha birçok uygulamayı destekleyen bir dil haline geldi. Hatta şu anda
-gömülü uygulamalar, mobil uygulamalar, TV uygulamaları ve daha fazlasını geliştirebilmek mümkün bu dille. Bir tarayıcıda çalışan mütevazı bir
-dil olarak başlayan şey şimdi dünyadaki en popüler dil haline geldi.
+JavaScript ÅŸu anda bir taraftan da databaseleri(veritabanlarÄ±nÄ±) ve daha birÃ§ok uygulamayÄ± destekleyen bir dil haline geldi. Hatta ÅŸu anda
+gÃ¶mÃ¼lÃ¼ uygulamalar, mobil uygulamalar, TV uygulamalarÄ± ve daha fazlasÄ±nÄ± geliÅŸtirebilmek mÃ¼mkÃ¼n bu dille. Bir tarayÄ±cÄ±da Ã§alÄ±ÅŸan mÃ¼tevazÄ± bir
+dil olarak baÅŸlayan ÅŸey ÅŸimdi dÃ¼nyadaki en popÃ¼ler dil haline geldi.
