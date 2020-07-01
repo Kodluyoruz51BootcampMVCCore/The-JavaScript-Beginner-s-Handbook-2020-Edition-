@@ -4,23 +4,23 @@
 
 ![js](https://user-images.githubusercontent.com/51059267/85326923-bb80c180-b4d6-11ea-814d-a6cafdd4a6b7.png)
 
-JavaScript is one of the most popular programming languages in the world.
+JavaScript dünyadaki en popüler dillerden biri.
 
-I believe it's a great choice for your first programming language ever.
+İnanıyorum ki ilk programlama diliniz için harikulade bir seçim olacaktır.
 
-We mainly use JavaScript to create
+JavaScript'i genellikle şunları oluşturmak için kullanırız:
 
-- websites
-- web applications
-- server-side applications using Node.js
+- Web Siteleri
+- Web Uygulamaları
+- Node.js kullanan sunucu taraflı uygulamalar
 
-but JavaScript is not limited to these things, and it can also be used to
+Fakat JavaScript bunlarla sınırlı değildir; ayrıca şunlar için de kullanılır:
 
-- create mobile applications using tools like React Native
-- create programs for microcontrollers and the internet of things
-- create smartwatch applications
+- React Native gibi uygulamaları kullanarak mobil uygulamalar geliştirmek
+- Mikrokontrolörler ve nesnelerin interneti(IoT) geliştirmeleri
+- Akıllı saat uygulamaları geliştirmeleri
 
-It can basically do anything. It's so popular that everything new that shows up is going to have some kind of JavaScript integration at some point.
+Esasında bir çok şeyi yapabilir. Yeni çıkan her şeyin bir noktada bazı JavaScript entegrasyonlarının olması oldukça popüler bir şey.
 
 JavaScript is a programming language that is:
 
@@ -34,7 +34,7 @@ JavaScript is a programming language that is:
 In case you're wondering, *JavaScript has nothing to do with Java*, it's a poor name choice but we have to live with it.
 ### Summary of the handbook
 
-1. [A little bit of history](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/A%20little%20bit%20of%20history.md#a-little-bit-of-history)
+1. [JavaScript Sentaksına Kısa Bir Giriş](https://github.com/omrfyildiz/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/Turkish-Translate/01-JavaScript%20Sentaks%C4%B1na%20K%C4%B1sa%20Bir%20Giri%C5%9F.md)
 2. [Just JavaScript](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Just%20JavaScript.md#just-javascript)
 3. [A brief intro to the syntax of JavaScript](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/A%20brief%20intro%20to%20the%20syntax%20of%20JavaScript.md#a-brief-intro-to-the-syntax-of-javascript)
 4. [Semicolons](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Semicolons.md#semicolons)
