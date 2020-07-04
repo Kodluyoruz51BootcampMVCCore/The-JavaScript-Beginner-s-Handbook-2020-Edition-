@@ -13,7 +13,7 @@ My personal preference is to avoid semicolons, so my examples in the book will n
 # --------
 
 ## Noktalý Virgül
-Javascript'teki her kod satýrý opsiyonel olarak noktalý virgül kullanýlarak bitirilir.
+"Javascript'teki her kod satýrý opsiyonel olarak noktalý virgül kullanýlarak bitirilir.
 
 Opsiyonel dedim, çünkü JavaScript derleyicisi noktalý virgülü sizin için tanýyacak kadar kabiliyetlidir.
 
@@ -21,5 +21,5 @@ Opsiyonel dedim, çünkü JavaScript derleyicisi noktalý virgülü sizin için tanýyac
 
 Bu çok tartýþýlagelen bir bir olgudur. Bazý geliþtiriciler noktalý virgül kullanmaya devam edecek, bazýlarý devam etmeyecek. Her zaman bu iki senaryonun da olduðu kodlarla karþýlaþacaksýnýz.
 
-Benim kiþisel tercihim noktalý virgül kullanmaktan kaçýnmak, bu yüzden bu kitapta noktalý virgül görmeyeceksiniz.
+Benim kiþisel tercihim noktalý virgül kullanmaktan kaçýnmak, bu yüzden bu kitapta noktalý virgül görmeyeceksiniz."
 
