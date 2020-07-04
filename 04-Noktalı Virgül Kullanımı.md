@@ -12,14 +12,14 @@ My personal preference is to avoid semicolons, so my examples in the book will n
 
 # --------
 
-## Noktalı Virgül
-"Javascript'teki her kod satırı opsiyonel olarak noktalı virgül kullanılarak bitirilir.
+## NoktalÄ± VirgÃ¼l
+"Javascript'teki her kod satÄ±rÄ± opsiyonel olarak noktalÄ± virgÃ¼l kullanÄ±larak bitirilir.
 
-Opsiyonel dedim, çünkü JavaScript derleyicisi noktalı virgülü sizin için tanıyacak kadar kabiliyetlidir.
+Opsiyonel dedim, Ã§Ã¼nkÃ¼ JavaScript derleyicisi noktalÄ± virgÃ¼lÃ¼ sizin iÃ§in tanÄ±yacak kadar kabiliyetlidir.
 
-Çoğu durumda noktalı virgülü kodlarınızdan hiç düşünmeden çıkarabilirsiniz.
+Ã‡oÄŸu durumda noktalÄ± virgÃ¼lÃ¼ kodlarÄ±nÄ±zdan hiÃ§ dÃ¼Ã¾Ã¼nmeden Ã§Ä±karabilirsiniz.
 
-Bu çok tartışılagelen bir bir olgudur. Bazı geliştiriciler noktalı virgül kullanmaya devam edecek, bazıları devam etmeyecek. Her zaman bu iki senaryonun da olduğu kodlarla karşılaşacaksınız.
+Bu Ã§ok tartÄ±ÅŸÄ±lagelen bir bir olgudur. BazÄ± geliÅŸtiriciler noktalÄ± virgÃ¼l kullanmaya devam edecek, bazÄ±larÄ± devam etmeyecek. Her zaman bu iki senaryonun da olduÄŸu kodlarla karÅŸÄ±laÅŸacaksÄ±nÄ±z.
 
-Benim kişisel tercihim noktalı virgül kullanmaktan kaçınmak, bu yüzden bu kitapta noktalı virgül görmeyeceksiniz."
+Benim kiÅŸisel tercihim noktalÄ± virgÃ¼l kullanmaktan kaÃ§Ä±nmak, bu yÃ¼zden bu kitapta noktalÄ± virgÃ¼l gÃ¶rmeyeceksiniz."
 
